@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCreator.Runtime.Core", "GameCreator.Runtime.Core.csproj", "{1ced4e7f-a55f-9a5b-9303-40204012b464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{2b631915-9e32-60f1-cab5-03c86f0ae08c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCreator.Tests.Core", "GameCreator.Tests.Core.csproj", "{fa8a42f9-ce3b-da32-59db-85e928ab4c04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCreator.Editor.Core", "GameCreator.Editor.Core.csproj", "{473815b1-a6d4-18f0-03c1-256c198a226f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{b4bc9d50-9428-3b3e-9435-b7710e600f3e}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ced4e7f-a55f-9a5b-9303-40204012b464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ced4e7f-a55f-9a5b-9303-40204012b464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2b631915-9e32-60f1-cab5-03c86f0ae08c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2b631915-9e32-60f1-cab5-03c86f0ae08c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fa8a42f9-ce3b-da32-59db-85e928ab4c04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fa8a42f9-ce3b-da32-59db-85e928ab4c04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473815b1-a6d4-18f0-03c1-256c198a226f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473815b1-a6d4-18f0-03c1-256c198a226f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b4bc9d50-9428-3b3e-9435-b7710e600f3e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b4bc9d50-9428-3b3e-9435-b7710e600f3e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
